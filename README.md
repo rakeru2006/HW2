@@ -31,7 +31,7 @@ and can visualize in [Github Pages](https://rakeru2006.github.io/HW2/)
 :speech_balloon:  :hammer: :eyeglasses:
   ***
 
-```
+
 ### How to start
 
 ```
@@ -42,7 +42,7 @@ and can visualize in [Github Pages](https://rakeru2006.github.io/HW2/)
 :feet:
 ***
 
-This profile portfolio was created with 
+This profile portfolio was created with you can find more information here 
 [Materialize front-end framework ] (https://materializecss.com/).
 You can start with this 
 ```
@@ -75,7 +75,7 @@ You can start with this
 
 Demo
 
-![demo]https://github.com/rakeru2006/HW2/blob/master/homepg.png?raw=true)
+![(demo]https://github.com/rakeru2006/HW2/blob/master/homepg.png?raw=true)
 
 
 
